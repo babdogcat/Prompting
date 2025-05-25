@@ -1,2 +1,1 @@
-# Prompting
-Prompt LLM
+# My Prompt Collection
